@@ -8,15 +8,13 @@
 
 # Technologies
 
+### Programming languages
+
 <img align="left" alt="Python" height="50px" src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png">
 
 <br><br>
 
-<img align="left" alt="Django" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png">
-
-<img align="left" alt="Flask" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png">
-
-<br><br>
+### Databases
 
 <img align="left" alt="SQL" height="40px" src="https://www.evcnegocios.com.br/wp-content/uploads/2020/05/SQL-Training.png">
 
@@ -25,6 +23,16 @@
 <img align="left" alt="Teradata" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Teradata_logo_2018.png">
 
 <br><br>
+
+### Web frameworks
+
+<img align="left" alt="Django" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png">
+
+<img align="left" alt="Flask" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png">
+
+<br><br>
+
+### Data & ML
 
 <img align="left" alt="Pandas" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png">
 
@@ -37,6 +45,8 @@
 <img align="left" alt="ScikitLearn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
 
 <br><br>
+
+### Web scraping
 
 <img align="left" alt="BeautifulSoup" height="40px" src="https://funthon.files.wordpress.com/2017/05/bs.png">
 
